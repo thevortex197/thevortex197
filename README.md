@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TheVortex</h1>
 <h3 align="center">A Developer who codes on JavaScript, Python, and HTML</h3>
-<img src="rainbow.gif" alt="gif" allign="center">
+<img allign="center" src="rainbow.gif" alt="gif">
 
 - 🔭 I’m currently working on: [Frost (A Discord.js Bot)](https://github.com/Frost-Development-Network/frost-bot)
 
