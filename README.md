@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm TheVortex</h1>
 <h3 align="center">A Developer who codes on JavaScript, Python, and HTML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevortex197&label=Profile%20views&color=0e75b6&style=flat" alt="thevortex197" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevortex197" alt="thevortex197" /></a> </p>
-
 - 🔭 I’m currently working on [Frost (A Discord.js Bot)](https://github.com/Frost-Development-Network/frost-bot)
 
 - 🌱 I’m currently learning **HTML and CSS**
