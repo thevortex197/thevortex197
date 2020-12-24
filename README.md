@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheVortex</h1>
-<h3 align="center">A Developer who</h3>
+<h3 align="center">A Developer who codes on JavaScript, Python, and HTML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevortex197&label=Profile%20views&color=0e75b6&style=flat" alt="thevortex197" /> </p>
 
