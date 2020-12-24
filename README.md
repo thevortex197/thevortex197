@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TheVortex</h1>
 <h3 align="center">A Developer who codes on JavaScript, Python, and HTML</h3>
-<img src="https://tenor.com/view/rainbow-border-line-colorful-gif-17203048" alt="gif" allign="center">
+<img src="rainbow.gif" alt="gif" allign="center">
 
 - 🔭 I’m currently working on: [Frost (A Discord.js Bot)](https://github.com/Frost-Development-Network/frost-bot)
 
